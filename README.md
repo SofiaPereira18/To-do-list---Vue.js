@@ -26,10 +26,10 @@ Simple To-Do List app built with **Vue 3** and **TypeScript**. Users can add and
 git clone https://github.com/teu-usuario/nome-do-repo.git
 
 # 2. Aceder à pasta do projeto | Enter the project folder
-cd nome-do-repo
+cd to-do-list
 
 # 3. Instalar dependências | Install dependencies
-npm install
+npm to-do-list
 
 # 4. Iniciar servidor de desenvolvimento | Start development server
 npm run dev
